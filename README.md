@@ -88,7 +88,7 @@ ROADMAP.md             # living doc of shipped + planned work
 
 ## Screenshot
 
-![Bob bubble UI](bob.png)
+![Bob bubble UI](Bob.png)
 
 *Bob in "bubble" mode — floating, transparent, mood-reactive.*
 
