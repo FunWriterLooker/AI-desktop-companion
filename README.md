@@ -86,6 +86,12 @@ moods/                 # mood-reactive image assets
 ROADMAP.md             # living doc of shipped + planned work
 ```
 
+## Screenshot
+
+![Bob bubble UI](bob.png)
+
+*Bob in "bubble" mode — floating, transparent, mood-reactive.*
+
 ## Acknowledgments
 
 Built with development assistance from Claude
