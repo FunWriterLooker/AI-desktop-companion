@@ -46,9 +46,9 @@ server. Bob started as a silly idea a fully local alternative which is still in 
 - Memory system (dedicated build session)
 - `.exe` packaging (with PySide6 LGPL attribution)
 
-**Phase 3 — "fun" capabilities**
+**Phase 3: "Fun" capabilities**
 - Text-to-speech
-- Text-to-image for dynamic mood faces (FLUX.1-dev is a candidate — deferred
+- Text-to-image for dynamic mood faces (FLUX.1-dev is a candidate, deferred
   due to ~24GB download size, HF licensing and VRAM offload requirements)
 - Speech-to-text
 - Vision models
